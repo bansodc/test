@@ -12,6 +12,7 @@ public class Student {
 			System.out.println("not divisible by zero");
 		}finally
 		{
+			system.out.println("Welcome");
 			System.out.println("finally always executed");
 		}
 		
