@@ -13,6 +13,7 @@ public class Student {
 		}finally
 		{
 			system.out.println("Welcome");
+			system.out.println("Welcome");
 			System.out.println("finally always executed");
 		}
 		
